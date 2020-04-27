@@ -1,17 +1,17 @@
 <persona id="peepshow_jeremy" displayName="(Peep Show) Jeremy Usborne">
-    <quote>I mean, there weren't any jobs when I didn't want a job, and now I do want a job, there are like, totally no jobs. Not just like, there aren't any jobs, but like, there are totally, quite literally no jobs.</quote>
-    <quote>I love the homeless, one of my own would be amazing. I could look after him... not like a tamagotchi... better.</quote>
-    <quote>Oh God, I think I love her. I think I'm falling in love. Or getting a bone on, which is basically the same thing when you get rid of all the Valentine's cards and bullshit.</quote>
-    <quote>What's so great about sex anyway? It's all the mind. Her soft skin is just a big bag full of kidneys and mucus and half-digested bits of pie. I bet she's got really nice kidneys. Oh yeah, I'd fuck those kidneys real good.</quote>
-    <quote>You realise that tinned food is just for crackheads and wars?</quote>
-    <quote>I bet she even does nice poos, little Maltesers that smell like The Body Shop.</quote>
-    <quote>Is this a terrible idea? It can't be, it's in a film. They wouldn't put a terrible idea in a film, they'd get sued.</quote>
-    <quote>Mark, if I can just get rid of the dog corpse, there's a chance I still might get laid here.</quote>
-    <quote>Justice is done. Not actual justice, but what I wanted to happen, which is basically the same thing.</quote>
-    <quote>This is fucking wicked. I'm almost definitely a musical genius. Maybe a tattoo... on my chest... but... of my face. Yeahh! Double me! Feel it!</quote>
-    <quote>Now I know how whatshisname felt when he finished the Mona Lisa... Knackered.</quote>
-    <quote>The first thing to say would be that this is not pyramid selling.</quote>
-    <quote>Mark likes Israel, I'm Palestine. Makes it much more interesting if you pick sides.</quote>
-    <quote>This was definitely a good idea. There's no chance this wasn't a good idea.</quote>
-    <quote>(Could use my sauna line.) Phwoor. Cor, it's like a sauna in here! [Nancy laughs] (Classic line. That is just a great line. Gotta manoeuvre more dates into saunas.)</quote>
+    <quote type="failure">I mean, there weren't any jobs when I didn't want a job, and now I do want a job, there are like, totally no jobs. Not just like, there aren't any jobs, but like, there are totally, quite literally no jobs.</quote>
+    <quote type="success">I love the homeless, one of my own would be amazing. I could look after him... not like a tamagotchi... better.</quote>
+    <quote type="other">Oh God, I think I love her. I think I'm falling in love. Or getting a bone on, which is basically the same thing when you get rid of all the Valentine's cards and bullshit.</quote>
+    <quote type="other">What's so great about sex anyway? It's all the mind. Her soft skin is just a big bag full of kidneys and mucus and half-digested bits of pie. I bet she's got really nice kidneys. Oh yeah, I'd fuck those kidneys real good.</quote>
+    <quote type="other">You realise that tinned food is just for crackheads and wars?</quote>
+    <quote type="other">I bet she even does nice poos, little Maltesers that smell like The Body Shop.</quote>
+    <quote type="failure">Is this a terrible idea? It can't be, it's in a film. They wouldn't put a terrible idea in a film, they'd get sued.</quote>
+    <quote type="failure">Mark, if I can just get rid of the dog corpse, there's a chance I still might get laid here.</quote>
+    <quote type="success">Justice is done. Not actual justice, but what I wanted to happen, which is basically the same thing.</quote>
+    <quote type="success">This is fucking wicked. I'm almost definitely a musical genius. Maybe a tattoo... on my chest... but... of my face. Yeahh! Double me! Feel it!</quote>
+    <quote type="other">Now I know how whatshisname felt when he finished the Mona Lisa... Knackered.</quote>
+    <quote type="failure">The first thing to say would be that this is not pyramid selling.</quote>
+    <quote type="other">Mark likes Israel, I'm Palestine. Makes it much more interesting if you pick sides.</quote>
+    <quote type="success">This was definitely a good idea. There's no chance this wasn't a good idea.</quote>
+    <quote type="success">(Could use my sauna line.) Phwoor. Cor, it's like a sauna in here! [Nancy laughs] (Classic line. That is just a great line. Gotta manoeuvre more dates into saunas.)</quote>
 </persona>
